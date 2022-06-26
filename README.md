@@ -1,7 +1,8 @@
 # Pandas_Challenge
 ## PyCitySchools
-* PyCitySchools folder contains the main script developed
-* It includes a checkpoint file which was automaticaly created for recovery
+* Contains the main script developed
+* Includes a checkpoint file which was automaticaly created for recovery
+* Contains a word document stating observable trends
 
 ## Resources
 * Contains the following files:

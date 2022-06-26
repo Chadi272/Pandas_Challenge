@@ -5,7 +5,7 @@
 
 ## Resources
 * Contains the following files:
-** Purchase_data.csv
-** Schools_complete.csv
-** Students_complete.csv
+  * Purchase_data.csv
+  * Schools_complete.csv
+  * Students_complete.csv
 * The csv files mentioned above are the data source for the main script developed
